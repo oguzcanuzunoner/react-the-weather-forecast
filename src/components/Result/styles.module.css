@@ -1,16 +1,13 @@
 .resultContainer {
-  margin-bottom: 15px;
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  flex-wrap: no-wrap;
 }
 .forecast {
   background-color: #e5e5e5;
   height: 35vh;
-  width: 100%;
+  width: 135px;
   margin: 5px;
   padding: 5px;
   display: flex;
@@ -19,6 +16,9 @@
   flex-wrap: wrap;
   align-items: center;
   border-radius: 5px;
+}
+.inForecast {
+  text-align: center;
 }
 .inForecast span {
   display: inline-block;

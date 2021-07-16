@@ -1,10 +1,12 @@
-.container {
-  text-align: center;
+body {
   background-color: #282c34;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.container {
+  text-align: center;
+  background-color: red;
 }

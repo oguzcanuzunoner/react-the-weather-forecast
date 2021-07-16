@@ -4,9 +4,11 @@ import Container from "./components/Container/Container.js";
 
 function App() {
   return (
-    <OpenWeatherProvider>
-      <Container />
-    </OpenWeatherProvider>
+    <div className="App">
+      <OpenWeatherProvider>
+        <Container />
+      </OpenWeatherProvider>
+    </div>
   );
 }
 

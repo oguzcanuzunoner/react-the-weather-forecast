@@ -3,7 +3,7 @@ import Weather from "../WeatherContainer/Weather";
 
 const Container = () => {
   return (
-    <div className={styles.container}>
+    <div>
       <Weather />
     </div>
   );

@@ -1,5 +1,5 @@
 .container {
-  height: 50vh;
+  height: auto;
   width: 90vw;
   background: #fff;
   display: flex;
@@ -31,4 +31,10 @@
 
 hr {
   width: 100%;
+}
+
+@media screen and (max-with: 667px) {
+  .container {
+    margin-top: 1550px;
+  }
 }

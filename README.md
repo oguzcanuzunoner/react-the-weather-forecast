@@ -1,3 +1,6 @@
+## NETLIFY DEMO
+[NETLIFY DEMO - CLICK ](https://weather-forecast-oguzcanuzunoner.netlify.app/)
+
 # The Weather Forecast Uygulaması
 
 Uygulamamızda, API'den çekilen hava durumu bilgilerini listeliyoruz. 

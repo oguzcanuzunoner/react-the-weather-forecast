@@ -1,0 +1,26 @@
+.resultContainer {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-wrap: no-wrap;
+}
+.forecast {
+  background-color: #e5e5e5;
+  height: 35vh;
+  width: 100%;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  border-radius: 5px;
+}
+.inForecast span {
+  display: inline-block;
+  color: #ec6e4c;
+}

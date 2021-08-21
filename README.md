@@ -11,9 +11,9 @@ Bu projede, Ana sayfada şehrinizi seçerek, 7 günlük hava durumunu öğrenebi
 
 ## Proje Teknik Bilgileri
 
-* 
 * Bilgiler API'den çekilmiştir. Bunun için OpenWeatherMap kullanılmıştır.
 * API'den veri çekmek için AXIOS kullanılmıştır.
+* Tarih bilgisi düzeni için Moment kullanılmıştır.
 * Enlem ve boylam bilgileri JSON dosyasından alınmıştır. Kaynak : [abdullahoguk](https://gist.github.com/abdullahoguk/ee03c26a23dca6eda9c480b4967e77b6#file-il-json)
 
 ## Proje Nasıl Çalıştırılır
